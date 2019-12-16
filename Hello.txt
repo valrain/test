@@ -1,3 +1,1 @@
-Hello, Git!
-hello
-hello-hello
+new stroke
