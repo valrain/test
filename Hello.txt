@@ -1,3 +1,4 @@
 new stroke
 new stroke two
 hello, git!
+hello, git rebase!
